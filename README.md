@@ -10,6 +10,7 @@ The project demonstrates modern backend development practices including authenti
 
 TaskFlow follows Clean Architecture.
 
+```
 TaskFlow.API
 │
 ├── TaskFlow.Application
@@ -17,8 +18,9 @@ TaskFlow.API
 ├── TaskFlow.Domain
 │
 └── TaskFlow.Infrastructure
+```
 
-
+---
 
 #  Features
 
@@ -32,11 +34,12 @@ TaskFlow.API
 - FluentValidation
 - Global Exception Handling Middleware
 - Hangfire Background Jobs
+- SignalR Real-Time Notifications
 - Weather API Integration
 - SQL Server Database
 - Entity Framework Core
 
-
+---
 
 #  Technologies
 
@@ -50,3 +53,8 @@ TaskFlow.API
 - Hangfire
 - SignalR
 - Swagger
+
+
+# 👨‍💻 Author
+
+**Abdulrhman Ahmed**
