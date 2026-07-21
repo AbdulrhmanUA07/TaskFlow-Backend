@@ -2,7 +2,7 @@
 
 TaskFlow is a Task Management System built with **ASP.NET Core Web API** following **Clean Architecture** and **CQRS** principles.
 
-The project demonstrates modern backend development practices including authentication, background jobs, real-time notifications, and external API integration.
+The project demonstrates modern backend development practices including authentication, background jobs and external API integration.
 
 ---
 
