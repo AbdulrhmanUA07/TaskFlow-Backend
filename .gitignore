@@ -1,0 +1,14 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# User specific
+*.user
+*.suo
+
+# Development settings
+appsettings.Development.json
+
+# Ignore Web Project
+TaskFlow.Web/
