@@ -34,7 +34,7 @@ TaskFlow.API
 - FluentValidation
 - Global Exception Handling Middleware
 - Hangfire Background Jobs
-- SignalR Real-Time Notifications
+- SignalR 
 - Weather API Integration
 - SQL Server Database
 - Entity Framework Core
